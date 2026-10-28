@@ -9,21 +9,6 @@
 Building practical solutions with technology and exploring
 the intersection of software, data, and business.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=550&lines=Exploring+technology+and+innovation;Building+projects+and+learning+every+day;Interested+in+tech+and+management"
-alt="Animated introduction" />
-
-<p>
-  <a href="https://github.com/Tahoora05">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
-  </a>
-  <a href="(https://github.com/Tahoora05)">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-</p>
-
-</div>
-
----
 
 ## 👩‍💻 About Me
 
@@ -89,15 +74,9 @@ alt="Most-used languages" />
 
 </div>
 
-## 🤝 Let's Connect
-
-I'm interested in connecting with people working in software,
-analytics, and technology management.
-
-- 💼 LinkedIn: [Connect with me](YOUR_LINKEDIN_URL)
-- 💻 GitHub: [Explore my repositories](https://github.com/YOUR_USERNAME)
-
----
+### Connect With Me  
+- LinkedIn: www.linkedin.com/in/tahoora-antulay
+- GitHub: https://github.com/Tahoora-Antulay
 
 <div align="center">
 
