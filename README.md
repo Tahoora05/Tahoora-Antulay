@@ -1,35 +1,79 @@
-# Hi, I'm Tahoora Antulay!
 
-### Final-Year BSc IT Student | Aspiring IT Management Professional
+<h1 align="center">Hi, I'm Tahoora Antulay 👋</h1>
 
-I'm a final-year Bachelor of Science in Information Technology
-student interested in software development, data analytics,
-and technology management.
+<h3 align="center">
+  Final-Year BSc IT Student | Technology & Management
+</h3>
 
-I enjoy building practical projects and exploring how technology
-can solve real-world problems.
+<p align="center">
+  Interested in software development, data analytics,
+  and technology management.
+</p>
 
-### Technical Skills
+<p align="center">
+  <a href="hwww.linkedin.com/in/tahoora-antulay">
+    LinkedIn
+  </a>
+  ·
+  <a href="https://github.com/Tahoora-Antulay>
+    GitHub
+  </a>
+</p>
 
-- Programming: Python, Java
-- Database: SQL, MySQL
-- Web Development: HTML, CSS, JavaScript
-- Backend: Node.js, PHP
-- Interests: IT Project Management, Business Analytics
+---
 
-### Featured Projects
+## About Me
 
-- Weather Forecast Web App
-  - A weather application with forecast data and API integration.
-  - Technologies: HTML, CSS, JavaScript, APIs
+- 🎓 Final-year BSc Information Technology student
+- 💻 Interested in building practical technology solutions
+- 📊 Exploring data analytics and business technology
+- 📋 Interested in IT project management
+- 🌱 Continuously learning and improving my technical skills
 
-### Currently Learning
+## Tech Stack
+
+<!-- Replace these with technologies you actually use. -->
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,html,css,js,git,github,vscode"
+       alt="Technology skills" />
+</p>
+
+## Featured Projects
+
+### 🌦️ Weather Forecast Web App
+
+A web application for exploring weather information
+and forecasts using API integration.
+
+- API integration and data handling
+- Interactive web interface
+- Weather information and forecasting
+
+**Technologies:** Add your actual project technologies here.
+
+[View Project](https://github.com/YOUR_USERNAME/weather-forecast-web-app)
+
+## Currently Learning
 
 - Git and GitHub
-- Software Project Management
-- Data Analytics
-- Building better software projects
+- Data analytics
+- Software project management
+- Building maintainable applications
 
-### Connect With Me  
-- LinkedIn: www.linkedin.com/in/tahoora-antulay
-- GitHub: https://github.com/Tahoora-Antulay
+## GitHub Statistics
+
+<!-- Add statistics cards after you have public repositories. -->
+
+<p>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent"
+    alt="GitHub statistics"
+  />
+</p>
+
+---
+
+<p align="center">
+  <i>Learning, building, and growing one project at a time.</i>
+</p>
